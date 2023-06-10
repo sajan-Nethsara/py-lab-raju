@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 16,
+  "data": [
+    {
+      "question": "사무실에 복사기가 있어요?",
+      "answers": ["", "", "Is there a copy machine in the office?", ""],
+      "correct": "Is there a copy machine in the office?"
+    },
+    {
+      "question": "네, 있어요.",
+      "answers": ["Yes, there is.", "", "", ""],
+      "correct": "Yes, there is."
+    },
+    {
+      "question": "복사기가 어디에 있어요?",
+      "answers": ["", "", "Where is the copy machine?", ""],
+      "correct": "Where is the copy machine?"
+    },
+    {
+      "question": "복사기는 창문 앞에 있어요.",
+      "answers": ["", "", "The copy machine is in front of the window.", ""],
+      "correct": "The copy machine is in front of the window."
+    }
+  ]
+}

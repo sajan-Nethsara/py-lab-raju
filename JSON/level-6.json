@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 6,
+  "data": [
+    {
+      "question": "스티브 씨는 회사원이에요?",
+      "answers": ["", "", "", "Is Mr. Steve an office worker?"],
+      "correct": "Is Mr. Steve an office worker?"
+    },
+    {
+      "question": "아니요, 회사원이 아니에요. 의사예요.",
+      "answers": ["", "", "", "No, he isn't an office worker. He is a doctor."],
+      "correct": "No, he isn't an office worker. He is a doctor."
+    },
+    {
+      "question": "그럼 누가 회사원이에요?",
+      "answers": ["", "", "", "Then, who is an office worker?"],
+      "correct": "Then, who is an office worker?"
+    },
+    {
+      "question": "흐엉 씨가 회사원이에요.",
+      "answers": ["", "", "", "Ms. Huong is an office worker."],
+      "correct": "Ms. Huong is an office worker."
+    }
+  ]
+}

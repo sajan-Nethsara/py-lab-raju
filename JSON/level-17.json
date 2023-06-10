@@ -1,0 +1,31 @@
+{
+  "id": "con-game",
+  "level": 17,
+  "data": [
+    {
+      "question": "사무실에 책상이 많아요?",
+      "answers": ["", "", "", "Are there many desks in the office?"],
+      "correct": "Are there many desks in the office?"
+    },
+    {
+      "question": "네, 많아요. 사무실에 책상이 스무 개 있어요.",
+      "answers": [
+        "",
+        "",
+        "",
+        "Yes, there are. There are twenty desks in the office."
+      ],
+      "correct": "Yes, there are. There are twenty desks in the office."
+    },
+    {
+      "question": "직원이 많아요?",
+      "answers": ["", "", "Are there many employees?", ""],
+      "correct": "Are there many employees?"
+    },
+    {
+      "question": "네, 많아요.",
+      "answers": ["", "", "", "Yes, there are."],
+      "correct": "Yes, there are."
+    }
+  ]
+}

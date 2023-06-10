@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 2,
+  "data": [
+    {
+      "question": "유양 씨는 중국 사람이에요?",
+      "answers": ["", "Ms. Yooyang, are you Chinese?", "", ""],
+      "correct": "Ms. Yooyang, are you Chinese?"
+    },
+    {
+      "question": "네, 저는 중국 사람이에요.",
+      "answers": ["", "", "", "Yes, I am Chinese."],
+      "correct": "Yes, I am Chinese."
+    },
+    {
+      "question": "학생이에요?",
+      "answers": ["Are you a student?", "", "", ""],
+      "correct": "Are you a student?"
+    },
+    {
+      "question": "네, 학생이에요.",
+      "answers": ["Yes, I am a student.", "", "", ""],
+      "correct": "Yes, I am a student."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 14,
+  "data": [
+    {
+      "question": "엘리베이터는 어디에 있어요?",
+      "answers": ["", "", "Where is the elevator?", ""],
+      "correct": "Where is the elevator?"
+    },
+    {
+      "question": "엘리베이터는 저쪽에 있어요.",
+      "answers": ["The elevator is over there.", "", "", ""],
+      "correct": "The elevator is over there."
+    },
+    {
+      "question": "회사에 엘리베이터가 많아요?",
+      "answers": ["", "", "", "Are there many elevators in your company?"],
+      "correct": "Are there many elevators in your company?"
+    },
+    {
+      "question": "네, 많아요.",
+      "answers": ["", "", "Yes, there are.", ""],
+      "correct": "Yes, there are."
+    }
+  ]
+}

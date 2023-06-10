@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 12,
+  "data": [
+    {
+      "question": "집에 베란다가 있어요?",
+      "answers": ["Is there a veranda in your house?", "", "", ""],
+      "correct": "Is there a veranda in your house?"
+    },
+    {
+      "question": "네, 있어요.",
+      "answers": ["", "", "", "Yes, there is."],
+      "correct": "Yes, there is."
+    },
+    {
+      "question": "베란다에 의자가 있어요?",
+      "answers": ["", "", "Is there a chair on the veranda?", ""],
+      "correct": "Is there a chair on the veranda?"
+    },
+    {
+      "question": "아니요, 베란다에 의자가 없어요.",
+      "answers": ["", "No, there is no chair on the veranda.", "", ""],
+      "correct": "No, there is no chair on the veranda."
+    }
+  ]
+}

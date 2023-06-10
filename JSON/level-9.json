@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 9,
+  "data": [
+    {
+      "question": "유양 씨의 집은 어디예요?",
+      "answers": ["", "", "", "Ms. Yooyang, where do you live?"],
+      "correct": "Ms. Yooyang, where do you live?"
+    },
+    {
+      "question": "바로 저기예요.",
+      "answers": ["", "", "", "I live right there."],
+      "correct": "I live right there."
+    },
+    {
+      "question": "집이 어때요?",
+      "answers": ["", "", "How is your house?", ""],
+      "correct": "How is your house?"
+    },
+    {
+      "question": "집이 작아요.",
+      "answers": ["", "", "My house is small.", ""],
+      "correct": "My house is small."
+    }
+  ]
+}

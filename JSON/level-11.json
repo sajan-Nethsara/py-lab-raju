@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 11,
+  "data": [
+    {
+      "question": "집에 애완동물이 있어요?",
+      "answers": ["", "", "", "Is there a pet in your house?"],
+      "correct": "Is there a pet in your house?"
+    },
+    {
+      "question": "네, 고양이가 있어요.",
+      "answers": ["", "", "Yes, there is a cat.", ""],
+      "correct": "Yes, there is a cat."
+    },
+    {
+      "question": "고양이가 어때요?",
+      "answers": ["", "", "", "How is your cat?"],
+      "correct": "How is your cat?"
+    },
+    {
+      "question": "귀여워요.",
+      "answers": ["", "", "", "It's cute."],
+      "correct": "It's cute."
+    }
+  ]
+}

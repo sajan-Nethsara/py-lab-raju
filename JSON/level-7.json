@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 7,
+  "data": [
+    {
+      "question": "유양 씨의 집은 아파트예요?",
+      "answers": ["", "", "Ms. Yooyang, is your house an apartment?", ""],
+      "correct": "Ms. Yooyang, is your house an apartment?"
+    },
+    {
+      "question": "네, 아파트예요.",
+      "answers": ["", "", "Yes, it is.", ""],
+      "correct": "Yes, it is."
+    },
+    {
+      "question": "아파트의 이름이 뭐예요?",
+      "answers": ["", "What is the name of your apartment?", "", ""],
+      "correct": "What is the name of your apartment?"
+    },
+    {
+      "question": "연세 아파트예요.",
+      "answers": ["It is Yonsei Apartment.", "", "", ""],
+      "correct": "It is Yonsei Apartment."
+    }
+  ]
+}

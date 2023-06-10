@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 5,
+  "data": [
+    {
+      "question": "다니엘 씨는 누구예요?",
+      "answers": ["", "", "", "Who is Mr. Daniel?"],
+      "correct": "Who is Mr. Daniel?"
+    },
+    {
+      "question": "다니엘 씨는 스티브 씨의 남동생이에요.",
+      "answers": ["", "", "", "Mr. Daniel is Steve's younger brother."],
+      "correct": "Mr. Daniel is Steve's younger brother."
+    },
+    {
+      "question": "다니엘 씨는 우빈 씨의 친구예요?",
+      "answers": ["", "", "", "Mr. Woobin, is Mr. Daniel your friend?"],
+      "correct": "Mr. Woobin, is Mr. Daniel your friend?"
+    },
+    {
+      "question": "네, 다니엘 씨는 제 친구예요.",
+      "answers": ["", "", "", "Yes, Mr. Daniel is my friend."],
+      "correct": "Yes, Mr. Daniel is my friend."
+    }
+  ]
+}

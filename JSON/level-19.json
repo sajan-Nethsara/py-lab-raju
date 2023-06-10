@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 19,
+  "data": [
+    {
+      "question": "유양 씨는 여동생이 있어요?",
+      "answers": ["", "", "Ms. Yooyang, do you have a younger sisters?", ""],
+      "correct": "Ms. Yooyang, do you have a younger sisters?"
+    },
+    {
+      "question": "네, 저는 여동생이 있어요.",
+      "answers": ["", "Yes, I have a younger sister.", "", ""],
+      "correct": "Yes, I have a younger sister."
+    },
+    {
+      "question": "여동생이 학생이에요?",
+      "answers": ["", "", "", "Is your younger sister a student?"],
+      "correct": "Is your younger sister a student?"
+    },
+    {
+      "question": "네, 학생이에요.",
+      "answers": ["", "", "Yes, she is a student.", ""],
+      "correct": "Yes, she is a student."
+    }
+  ]
+}

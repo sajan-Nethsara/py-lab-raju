@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 8,
+  "data": [
+    {
+      "question": "여기가 우리 아파트예요.",
+      "answers": ["This is my apartment.", "", "", ""],
+      "correct": "This is my apartment."
+    },
+    {
+      "question": "저것이 뭐예요?",
+      "answers": ["", "", "", "What is that?"],
+      "correct": "What is that?"
+    },
+    {
+      "question": "헬스클럽이에요. 헬스클럽이 아주 넓어요.",
+      "answers": [
+        "",
+        "",
+        "",
+        "That is a fitness club. The fitness club is very large."
+      ],
+      "correct": "That is a fitness club. The fitness club is very large."
+    }
+  ]
+}

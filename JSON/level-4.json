@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 4,
+  "data": [
+    {
+      "question": "저 사람은 누구예요?",
+      "answers": ["", "", "Who is that person?", ""],
+      "correct": "Who is that person?"
+    },
+    {
+      "question": "저 사람은 흐엉 씨예요.",
+      "answers": ["", "", "", "That person is Ms. Huong."],
+      "correct": "That person is Ms. Huong."
+    },
+    {
+      "question": "베트남 사람이에요?",
+      "answers": ["", "Is she Vietnamese?", "", ""],
+      "correct": "Is she Vietnamese?"
+    },
+    {
+      "question": "네, 베트남 사람이에요.",
+      "answers": ["", "", "Yes, she is Vietnamese.", ""],
+      "correct": "Yes, she is Vietnamese."
+    }
+  ]
+}

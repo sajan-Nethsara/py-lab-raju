@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 20,
+  "data": [
+    {
+      "question": "우빈 씨는 여동생이 있어요?",
+      "answers": ["", "", "Mr. Woobin, do you have a younger sister?", ""],
+      "correct": "Mr. Woobin, do you have a younger sister?"
+    },
+    {
+      "question": "네, 있어요.",
+      "answers": ["", "Yes, I have.", "", ""],
+      "correct": "Yes, I have."
+    },
+    {
+      "question": "누나도 있어요?",
+      "answers": ["", "", "Do you have an elder sister, too?", ""],
+      "correct": "Do you have an elder sister, too?"
+    },
+    {
+      "question": "네, 누나도 있어요.",
+      "answers": ["", "", "Yes, I have an older sister, too.", ""],
+      "correct": "Yes, I have an older sister, too."
+    }
+  ]
+}

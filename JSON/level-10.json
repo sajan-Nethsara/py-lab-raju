@@ -1,0 +1,31 @@
+{
+  "id": "con-game",
+  "level": 10,
+  "data": [
+    {
+      "question": "저기가 유양 씨의 방이에요?",
+      "answers": ["", "", "", "Ms. Yooyang, is that your room?"],
+      "correct": "Ms. Yooyang, is that your room?"
+    },
+    {
+      "question": "네, 제 방이에요.",
+      "answers": ["Yes, it's my room.", "", "", ""],
+      "correct": "Yes, it's my room."
+    },
+    {
+      "question": "방이 밝아요?",
+      "answers": ["", "", "Is your room bright?", ""],
+      "correct": "Is your room bright?"
+    },
+    {
+      "question": "네, 밝아요. 방에 창문이 있어요.",
+      "answers": [
+        "",
+        "",
+        "Yes, it's bright. There is a window in the room.",
+        ""
+      ],
+      "correct": "Yes, it's bright. There is a window in the room."
+    }
+  ]
+}

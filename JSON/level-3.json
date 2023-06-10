@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 3,
+  "data": [
+    {
+      "question": "우빈 씨는 학생이에요?",
+      "answers": ["Mr. Woobin, are you a student?", "", "", ""],
+      "correct": "Mr. Woobin, are you a student?"
+    },
+    {
+      "question": "아니요, 저는 학생이 아니에요.",
+      "answers": ["", "", "", "No, I'm not a student."],
+      "correct": "No, I'm not a student."
+    },
+    {
+      "question": "그럼 회사원이에요?",
+      "answers": ["", "", "Then, are you an office worker?", ""],
+      "correct": "Then, are you an office worker?"
+    },
+    {
+      "question": "네, 회사원이에요.",
+      "answers": ["", "", "", "Yes, I'm an office worker."],
+      "correct": "Yes, I'm an office worker."
+    }
+  ]
+}

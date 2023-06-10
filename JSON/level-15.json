@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 15,
+  "data": [
+    {
+      "question": "회사에 휴게실이 있어요?",
+      "answers": ["", "", "Are there lounges in your company?", ""],
+      "correct": "Are there lounges in your company?"
+    },
+    {
+      "question": "네, 있어요.",
+      "answers": ["", "Yes, there are.", "", ""],
+      "correct": "Yes, there are."
+    },
+    {
+      "question": "휴게실이 어디에 있어요?",
+      "answers": ["", "", "", "Where are the lounges?"],
+      "correct": "Where are the lounges?"
+    },
+    {
+      "question": "휴게실은 오 층하고 십 층에 있어요.",
+      "answers": ["", "", "The lounges are on the fifth and tenth floors.", ""],
+      "correct": "The lounges are on the fifth and tenth floors."
+    }
+  ]
+}

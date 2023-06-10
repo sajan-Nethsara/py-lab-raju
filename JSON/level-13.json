@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 13,
+  "data": [
+    {
+      "question": "회사가 어디에 있어요?",
+      "answers": ["", "Where is your company?", "", ""],
+      "correct": "Where is your company?"
+    },
+    {
+      "question": "여의도에 있어요.",
+      "answers": ["", "", "It is in Yeouido.", ""],
+      "correct": "It is in Yeouido."
+    },
+    {
+      "question": "회사가 커요?",
+      "answers": ["", "", "Is your company big?", ""],
+      "correct": "Is your company big?"
+    },
+    {
+      "question": "네, 커요.",
+      "answers": ["", "", "", "Yes, it's big."],
+      "correct": "Yes, it's big."
+    }
+  ]
+}

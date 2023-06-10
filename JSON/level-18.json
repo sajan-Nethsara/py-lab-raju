@@ -1,0 +1,26 @@
+{
+  "id": "con-game",
+  "level": 18,
+  "data": [
+    {
+      "question": "사무실에 직원이 몇 명 있어요?",
+      "answers": ["", "", "How many employees are there in the office?", ""],
+      "correct": "How many employees are there in the office?"
+    },
+    {
+      "question": "스무 명 있어요.",
+      "answers": ["", "There are twenty employees.", "", ""],
+      "correct": "There are twenty employees."
+    },
+    {
+      "question": "외국 사람은 몇 명 있어요?",
+      "answers": ["", "", "How many foreigners are there?", ""],
+      "correct": "How many foreigners are there?"
+    },
+    {
+      "question": "두 명 있어요.",
+      "answers": ["", "", "There are two foreigners.", ""],
+      "correct": "There are two foreigners."
+    }
+  ]
+}
